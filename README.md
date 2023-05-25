@@ -35,7 +35,7 @@
     </p>
   <br />
   
-  <h3>🌿 I've used 🌿<h3>
+  <h3>I've used<h3>
     <p>
       <img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=Apple&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/></a>
@@ -43,7 +43,7 @@
       <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/></a>
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat&logo=Notion&logoColor=black"/>
     </p>
   
   
