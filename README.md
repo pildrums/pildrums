@@ -1,6 +1,6 @@
 <div align="center">
   
-  #  PilDrums
+  #  프론트엔드 개발자 김필진입니다.
   <br />
   <p>
     <a href="mailto:there7788@gmail.com/"><img src="https://img.shields.io/badge/there7788@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
